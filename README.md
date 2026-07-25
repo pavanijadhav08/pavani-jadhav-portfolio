@@ -1,63 +1,171 @@
-# Personal Portfolio Website
+# Pavani Jadhav - Developer Portfolio
 
-A modern, dark-themed, ultra-premium developer portfolio website built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Lucide Icons**, matching the layout, UX, and animations of [jigarsable.netlify.app](https://jigarsable.netlify.app/#experience).
+A modern, responsive, and interactive personal portfolio website built to showcase my technical skills, projects, certifications, achievements, education, and professional experience. This portfolio reflects my journey as a Computer Engineering student passionate about Full-Stack Development and Data Analytics.
 
----
+## Live Demo
 
-## ⚡ Content Management
+https://your-vercel-domain.vercel.app
 
-**All content in this portfolio is driven by a single central configuration file:**
-📁 `src/data/portfolioData.js`
+## Repository
 
-### How to Update Your Portfolio:
-1. Open `src/data/portfolioData.js`.
-2. Edit your details, including:
-   - **Personal Info**: Name, Role, Typing Roles, Short Intro, Bio, Career Objective, Avatar Image, Resume URL, Contact Info.
-   - **Social Links**: GitHub, LinkedIn, Twitter, Telegram, Instagram, Dev.to, Email.
-   - **About Me**: Quick stats and key background facts.
-   - **Skills**: Technical skills (Frontend, Backend, Databases, Cloud) with levels & icons + Soft Skills.
-   - **Work Experience**: Timeline items (Company, Position, Date, Description, Highlights, Tech Stack).
-   - **Projects**: Title, Category, Description, Images, Tech Badges, Live Demo & GitHub links.
-   - **Certifications**: Issuers, Dates, Credential IDs, Link, Badges.
-   - **Achievements**: Awards, Hackathon wins, Milestones.
-   - **Education**: Degree, Institution, Period, Grade/GPA, Coursework.
-   - **Contact**: Heading, Subheading, Response Guarantee.
-   - **Footer**: Quote, Year, Copyright text.
-
-Every section updates automatically upon editing this file!
+https://github.com/pavanijadhav08/pavani-jadhav-portfolio
 
 ---
 
-## 🚀 Development Setup & Commands
+## About
 
-### Prerequisites:
-- Node.js (v18+ recommended)
-- npm or yarn
+This portfolio serves as my professional online presence where recruiters, collaborators, and fellow developers can learn more about my background, technical expertise, and the projects I have worked on.
 
-### 1. Install Dependencies
-```bash
-npm install
-```
-
-### 2. Run Locally in Development Mode
-```bash
-npm run dev
-```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### 3. Build for Production
-```bash
-npm run build
-```
+The website is designed with a modern UI, smooth animations, responsive layouts, and an intuitive user experience.
 
 ---
 
-## 🎨 Features & Highlights
+## Features
 
-- 🌙 **Modern Dark Theme**: Deep navy background with vibrant purple, cyan, and glowing neon accents.
-- ✨ **Particle Background**: Custom interactive canvas particle system with starburst mouse attraction.
-- ⌨️ **Typewriter Text Effect**: Dynamic animated title cycle in Hero section.
-- 📱 **Fully Responsive**: Flawless design across Mobile, Tablet, and Desktop screens.
-- 🏆 **Interactive Modal**: View full project details, technical highlights, and demo links.
-- 📝 **Contact Form**: Glassmorphic form with validation & celebration confetti feedback.
-- ⬆️ **Scroll to Top**: Smooth scrolling navigation and sticky glass header.
+- Responsive design for desktop, tablet, and mobile devices
+- Modern dark-themed user interface
+- Interactive Hero section
+- Professional About section
+- Technical Skills categorized by domain
+- Work Experience timeline
+- Featured Projects showcase
+- Certifications and Licenses section
+- Achievements and Scholarships
+- Education timeline
+- Contact form
+- Resume download option
+- Smooth scrolling navigation
+- Animated UI components
+
+---
+
+## Portfolio Sections
+
+- Home
+- About
+- Skills
+- Experience
+- Projects
+- Certifications
+- Achievements
+- Education
+- Contact
+
+---
+
+## Tech Stack
+
+### Frontend
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Build Tool
+
+- Vite
+
+### Styling
+
+- Custom CSS
+- Responsive Design
+- CSS Animations
+
+### Deployment
+
+- GitHub
+- Vercel
+
+---
+
+## Skills Highlighted
+
+### Programming Languages
+
+- Java
+- C++
+- JavaScript
+- SQL
+
+### Frontend
+
+- HTML
+- CSS
+- React.js
+
+### Backend
+
+- Java
+- REST APIs
+
+### Databases
+
+- MySQL
+- SQL
+
+### Data Analytics
+
+- Power BI
+- Excel
+- Data Visualization
+- ETL
+
+### Version Control
+
+- Git
+- GitHub
+
+---
+
+## Featured Projects
+
+### MoneyKauf – Cross Platform FinTech Platform
+
+A responsive fintech platform featuring secure user interfaces, financial services, and modern web technologies.
+
+### WalletWise AI
+
+An AI-powered finance management application for tracking expenses and improving financial planning.
+
+### Hospital Patient Waitlist Analysis
+
+A Data Analytics project built using Power BI for analyzing patient waitlists, improving operational efficiency, and generating actionable insights.
+
+---
+
+## Certifications
+
+- JPMorgan Chase & Co. Software Engineering Job Simulation
+- Deloitte Data Analytics Job Simulation
+- Cisco Data Analytics Certification
+- SQL Analytics Certification
+- Introduction to Generative AI
+- Advanced Database Management System
+
+---
+
+## Achievements
+
+- Persistent Foundation Scholarship
+- Lila Poonawalla Foundation Scholarship
+
+---
+
+## Education
+
+**Bachelor of Technology (Computer Engineering)**
+
+Cummins College of Engineering, Nagpur
+
+2024 – 2027
+
+**Diploma in Information Technology**
+
+Government Polytechnic, Washim
+
+2021 – 2024
+
+---
+
+Thank you for visiting my portfolio. Feedback, suggestions, and collaboration opportunities are always welcome.
