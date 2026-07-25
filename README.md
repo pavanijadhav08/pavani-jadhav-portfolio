@@ -1,4 +1,4 @@
-# Pavani Jadhav - Developer Portfolio
+# Pavani Jadhav - Portfolio
 
 A modern, responsive, and interactive personal portfolio website built to showcase my technical skills, projects, certifications, achievements, education, and professional experience. This portfolio reflects my journey as a Computer Engineering student passionate about Full-Stack Development and Data Analytics.
 
