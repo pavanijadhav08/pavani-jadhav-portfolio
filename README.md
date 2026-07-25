@@ -4,7 +4,7 @@ A modern, responsive, and interactive personal portfolio website built to showca
 
 ## Live Demo
 
-https://your-vercel-domain.vercel.app
+pavani-jadhav-portfolio.vercel.app
 
 ## Repository
 
